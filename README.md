@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juswamacbook
+- 👋 Hi, I'm Josh M. Ranin
 - 👀 I’m interested in music, sports such as basketball, and language learning. 
 - 🌱 I’m currently learning Python3, HTML, CSS
 - 💞️ I’m looking to collaborate on future projects involving music, language learning involving an AI assistant, as well as 
