@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Joshua M. Ranin
 - 👀 I’m interested in music, sports such as basketball, and language learning. 
-- 🌱 I’m currently learning HTML, Javascript, CSS, Node.js and Figma
+- 🌱 I’m currently learning HTML, Javascript, CSS
 - 💞️ I’m looking to collaborate on future projects involving music, language learning involving an AI assistant, as well as any mobile/website applications 
 - 📫 How to reach me instagram: @03nineteen_jo, twitter: @ayjoshyyy
 - 😄 Pronouns: he/him
