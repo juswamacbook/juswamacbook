@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/juswamacbook/juswamacbook/blob/main/banner.png?raw=true" alt="Joshua M. Ranin banner" width="100%">
-</p>
-
 
 # 👋 Hi, I'm Joshua M. Ranin
 
