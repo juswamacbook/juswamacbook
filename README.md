@@ -1,4 +1,4 @@
-![banner](banner.png)
+(banner.png)
 # 👋 Hi, I'm Joshua M. Ranin
 
 🎓 **Aspiring software developer** passionate about creating meaningful, user-focused digital experiences.  
