@@ -1,12 +1,18 @@
-- 👋 Hi, I'm Joshua M. Ranin
-- 👀 I’m interested in music, sports such as basketball, and language learning. 
-- 🌱 I’m currently learning HTML, Javascript, CSS
-- 💞️ I’m looking to collaborate on future projects involving music, language learning involving an AI assistant, as well as any mobile/website applications 
-- 📫 How to reach me instagram: @03nineteen_jo, twitter: @ayjoshyyy
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can play drums and piano!
+# 👋 Hi, I'm Joshua M. Ranin
 
-<!---
-juswamacbook/juswamacbook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Aspiring software developer passionate about creating impactful and user-friendly applications.  
+💻 Currently learning **HTML, CSS, and JavaScript**, and exploring **Python** and **TypeScript** for web and AI development.  
+🎵 Outside of coding, I enjoy **music (piano & drums)**, **basketball**, and **language learning**.  
+
+## 🚀 What I’m Working On
+- 🧠 Building projects that combine **AI and language learning** (see [LanguageTranslate](#) 👇)  
+- 🎧 Developing tools that turn **text into audio experiences** ([Audio-Book-From-PDF](#))  
+- 💡 Learning about **embedded systems** and **full-stack development**
+
+## 🤝 Let’s Connect
+- Instagram: [@03nineteen_jo](https://instagram.com/03nineteen_jo)  
+- Twitter/X: [@ayjoshyyy](https://twitter.com/ayjoshyyy)  
+- Portfolio: *Coming soon* 🚧  
+- Pronouns: he/him  
+
+⚡ **Fun fact:** I can play both drums and piano!
