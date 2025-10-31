@@ -15,7 +15,7 @@
 ---
 
 ## 🧰 Skills
-**Languages:** Python, JavaScript, TypeScript, HTML, CSS  
+**Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS  
 **Frameworks:** React, Flask, Bootstrap  
 **Tools:** Git, GitHub, VS Code, Figma  
 **Learning:** AI/ML, Embedded Systems, Full-Stack Development  
